@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Website-Business-Success-calc/static/css/main.073c9b0a.css",
+    "main.js": "/Website-Business-Success-calc/static/js/main.858486a1.js",
+    "static/js/787.ec738bfd.chunk.js": "/Website-Business-Success-calc/static/js/787.ec738bfd.chunk.js",
+    "static/media/Success_unsuccess.png": "/Website-Business-Success-calc/static/media/Success_unsuccess.2ccdc5da5bae1f258c52.png",
+    "static/media/businesses.png": "/Website-Business-Success-calc/static/media/businesses.d4f412f07c731efe808e.png",
+    "static/media/Distance_from_times_sq_and_Duration.png": "/Website-Business-Success-calc/static/media/Distance_from_times_sq_and_Duration.94e3002145987fd08546.png",
+    "static/media/unsuccessful_types_small.png": "/Website-Business-Success-calc/static/media/unsuccessful_types_small.aaee128972bba60a2f8b.png",
+    "static/media/DistanceFromStation_Success_BusinessType.png": "/Website-Business-Success-calc/static/media/DistanceFromStation_Success_BusinessType.6524952a27181bf83664.png",
+    "static/media/Types_of_business.png": "/Website-Business-Success-calc/static/media/Types_of_business.3956ecc187c0db8db996.png",
+    "static/media/Successful_business_types.png": "/Website-Business-Success-calc/static/media/Successful_business_types.de86f9e43d2b7a6bafa9.png",
+    "static/media/successful_business_distance_form_times_sq_r50km.png": "/Website-Business-Success-calc/static/media/successful_business_distance_form_times_sq_r50km.0a8d45637c6d5bd69883.png",
+    "static/media/ConfustionMatrix.png": "/Website-Business-Success-calc/static/media/ConfustionMatrix.2176c72f4339f123abb9.png",
+    "static/media/SampleAverageDuration.png": "/Website-Business-Success-calc/static/media/SampleAverageDuration.746e55fa0c8d0da4f3eb.png",
+    "index.html": "/Website-Business-Success-calc/index.html",
+    "main.073c9b0a.css.map": "/Website-Business-Success-calc/static/css/main.073c9b0a.css.map",
+    "main.858486a1.js.map": "/Website-Business-Success-calc/static/js/main.858486a1.js.map",
+    "787.ec738bfd.chunk.js.map": "/Website-Business-Success-calc/static/js/787.ec738bfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.858486a1.js"
+  ]
+}
